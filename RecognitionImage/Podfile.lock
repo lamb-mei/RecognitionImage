@@ -1,0 +1,16 @@
+PODS:
+  - ImageViewer.swift (3.1.0)
+
+DEPENDENCIES:
+  - ImageViewer.swift (~> 3.0)
+
+SPEC REPOS:
+  trunk:
+    - ImageViewer.swift
+
+SPEC CHECKSUMS:
+  ImageViewer.swift: 76a454219ccefd5f3fe6f0f79c789ac226a451de
+
+PODFILE CHECKSUM: a89be90862d936c5df9d205af1f0ce31ed7e6eca
+
+COCOAPODS: 1.9.3
